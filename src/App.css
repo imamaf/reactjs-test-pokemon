@@ -1,0 +1,20 @@
+.App {
+  margin-top: 10px;
+  min-height: 100vh;
+  margin-bottom: 20px; 
+}
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+.navbar-header{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.navbar {
+  background-color: #ef5350 !important;
+}
+.navbar h3{
+  color: #ffffff !important;
+}
